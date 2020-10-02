@@ -28,4 +28,6 @@
     background-color: white;
     color: purple;
     border: 5px solid purple;
+    background-image: url("../../psyduck.png");
+    background-size: cover;
   }
